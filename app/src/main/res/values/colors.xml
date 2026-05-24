@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- EcoPilah Colors -->
+    <color name="background">#F6FBF6</color>
+    <color name="primary">#0D631B</color>
+    <color name="primary_container">#2E7D32</color>
+    <color name="on_primary_container">#CBFFC2</color>
+    <color name="secondary">#7E5700</color>
+    <color name="secondary_container">#FEB300</color>
+    <color name="on_secondary_container">#6A4800</color>
+    <color name="secondary_fixed_dim">#FFBA38</color>
+    <color name="secondary_fixed">#FFDEAC</color>
+    <color name="primary_fixed">#A3F69C</color>
+
+    <color name="surface_container_lowest">#FFFFFF</color>
+    <color name="surface_container_low">#F0F5F0</color>
+    <color name="surface_container">#EAEFEA</color>
+
+    <color name="on_surface">#171D1A</color>
+    <color name="on_surface_variant">#40493D</color>
+    <color name="outline_variant">#BFCABA</color>
+
+    <color name="tertiary">#1D622B</color>
+    <color name="tertiary_fixed">#ABF4AC</color>
+    <color name="error">#BA1A1A</color>
+</resources>
